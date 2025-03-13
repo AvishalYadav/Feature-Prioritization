@@ -1,0 +1,25 @@
+{
+    "features": [
+      {
+        "id": "F1",
+        "name": "AI-Powered Content Recommendations",
+        "usage_rate": 0.85,
+        "satisfaction": 4.2,
+        "requests": 350
+      },
+      {
+        "id": "F2",
+        "name": "Automated Assessment Generation",
+        "usage_rate": 0.75,
+        "satisfaction": 3.9,
+        "requests": 280
+      },
+      {
+        "id": "F3",
+        "name": "Adaptive Learning Paths",
+        "usage_rate": 0.90,
+        "satisfaction": 4.5,
+        "requests": 420
+      }
+    ]
+  }

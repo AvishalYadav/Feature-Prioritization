@@ -1,0 +1,20 @@
+📁 Product_Project/
+├── 📁 src/
+│   ├── 📁 data/
+│   │   ├── customer_insights.json
+│   │   └── feature_metrics.json
+│   ├── 📁 models/
+│   │   ├── prioritization_model.py
+│   │   └── impact_analysis.py
+│   ├── 📁 utils/
+│   │   ├── data_processor.py
+│   │   └── visualization.py
+│   └── main.py
+├── 📁 tests/
+│   ├── test_prioritization.py
+│   └── test_impact_analysis.py
+├── 📁 docs/
+│   ├── roadmap.md
+│   └── feature_analysis.md
+├── requirements.txt
+└── README.md 
